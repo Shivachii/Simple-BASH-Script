@@ -35,7 +35,7 @@ Clone or download the script.
 chmod +x temp-monitor.sh
 
 
-Run the script:
+### Run the script:
 
 ./temp-monitor.sh
 
