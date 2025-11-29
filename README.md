@@ -20,24 +20,23 @@ A simple Bash script to monitor CPU and SSD temperatures and send desktop notifi
 
 - bash shell
 
-## Prerequisites
 
-### Install required tools on Debian/Ubuntu:
+## Install required tools on Debian/Ubuntu:
 
 - sudo apt update
 - sudo apt install lm-sensors libnotify-bin
 - sudo sensors-detect
 
-### Usage
+## Usage
 
 Clone or download the script.
 
-### Make it executable:
+## Make it executable:
 
 chmod +x temp-monitor.sh
 
 
-### Run the script:
+## Run the script:
 
 ./temp-monitor.sh
 
